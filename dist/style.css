@@ -1,0 +1,22 @@
+body{
+  background: #55E6C1;
+  min-height:100vh;
+  padding:20px;
+}
+.preview{
+  background: #FFF;
+}
+#editor,.preview{
+  min-height:580px;
+  background-color: #9AECDB;
+  border:2px solid black;
+  height:95%;
+}
+.preview img{
+  width:100%;
+}
+.h-1,.h-2{
+  background-color: #58B19F;
+  border:2px solid black;
+  margin-bottom:0;
+}
